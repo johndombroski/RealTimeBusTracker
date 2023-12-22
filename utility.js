@@ -38,7 +38,7 @@ class busCL {
 // ---------------- mapping 
 
 // initialize the map
-mapboxgl.accessToken = 'pk.eyJ1Ijoiam9obmRvbWJyb3NraSIsImEiOiJjbHFlNjBpcDQwamJ0Mmpwcnk2emQ5djMxIn0.2UUnAoo4ZrCTv0lcNovgMQ';
+mapboxgl.accessToken = '';
 // initialize map
 let map = new mapboxgl.Map({
   container: 'map',
